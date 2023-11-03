@@ -1,1 +1,0 @@
-/Users/antoniofurtado/Desktop/Online\ Learning/rust_by_practice/char-bool-unit/target/debug/exercise_4: /Users/antoniofurtado/Desktop/Online\ Learning/rust_by_practice/char-bool-unit/src/bin/exercise_4.rs
