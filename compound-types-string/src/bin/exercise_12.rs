@@ -18,4 +18,4 @@ fn main() {
 
 //     let rocket = utf8_slice::slice(s, 4, 5);
 //     // Will equal "🚀"
-}
+// }
